@@ -1,9 +1,9 @@
 // Cristiano | ICS2O-Unit2-02-HTML | March 10 2022
 
 
-/*
-  Does basic math.
-*/
+/**
+ * Does basic math.
+ */
 function doMathQuestions() {
   document.getElementById("math-addition").innerHTML = "<p>5 + 3 = " + (5 + 3) + "</p>"
   document.getElementById("math-subtraction").innerHTML = "<p>5 - 3 = " + (5 - 3) + "</p>"
